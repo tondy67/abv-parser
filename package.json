@@ -1,0 +1,29 @@
+{
+  "name": "abv-parser",
+  "version": "0.0.1",
+  "description": "Xml parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "xml",
+    "html5",
+    "parser",
+    "abvos"
+  ],
+  "author": {
+    "name": "Todor Angelov",
+    "email": "abv@tondy.com",
+    "url": "http://tondy.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tondy67/abv-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tondy67/abv-parser/issues"
+  },
+  "homepage": "https://github.com/tondy67/abv-parser#readme"
+}
